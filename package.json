@@ -32,6 +32,7 @@
   "dependencies": {
     "lodash-es": "^4.17.21",
     "vue": "^3.4.19",
+    "element-plus": "^2.9.6",
     "wanna-plus": "workspace:*",
     "@wanna-plus/hooks": "workspace:*",
     "@wanna-plus/utils": "workspace:*",
