@@ -3,7 +3,7 @@ name: deploy
 on:
   push:
     branches:
-      - master
+      - main # 确保这里的分支名和你实际使用的一致
 
 jobs:
   test:
